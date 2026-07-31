@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lethika%20C&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://linkedin.com/in/lethika-c"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lethikachinnasamy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/lethika2232007-ui"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Sc.+AI+%26+ML+Student;Building+AI-Powered+Applications;Turning+Data+Into+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div>
@@ -10,23 +16,13 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Lethika:
-    def __init__(self):
-        self.name = "Lethika C"
-        self.degree = "B.Sc. Artificial Intelligence & Machine Learning"
-        self.college = "Sri Krishna Arts and Science College"
-        self.stack = ["Python", "C++", "MySQL", "HTML", "CSS"]
-        self.currently_learning = ["Cloud & AI Security", "Streamlit Apps", "Prompt Engineering"]
-        self.fun_fact = "I once built an offline AI assistant with zero internet dependency!"
+Hi, I'm **Lethika C** 👋 — a B.Sc. Artificial Intelligence & Machine Learning student at **Sri Krishna Arts and Science College**.
 
-    def motto(self):
-        return "Learn continuously, build meaningfully."
+I love turning ideas into working AI-powered tools, and I'm especially interested in **cloud security, offline AI applications, and prompt engineering**.
 
-
-me = Lethika()
-print(me.motto())
-```
+- 🌱 Currently learning: **Cloud & AI Security, Streamlit Apps, Prompt Engineering**
+- 💡 Fun fact: I once built an offline AI study assistant with zero internet dependency!
+- 💬 Motto: *"Learn continuously, build meaningfully."*
 
 ---
 
@@ -76,6 +72,14 @@ print(me.motto())
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lethika2232007-ui&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+### 🏆 Trophy Wall
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=lethika2232007-ui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---

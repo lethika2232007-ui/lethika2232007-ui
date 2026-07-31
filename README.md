@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Lethika%20C&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Building%20with%20Curiosity&descAlignY=52&descSize=15" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=B.Sc.+AI+%26+ML+Student;AI-Powered+App+Builder;Cloud+%26+Security+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br>
 
@@ -84,7 +87,6 @@ I enjoy building AI-powered tools and exploring how machine learning, cloud, and
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lethika2232007-ui&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 
 ## 💼 Experience
 
